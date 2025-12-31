@@ -27,9 +27,7 @@
 
 I am an aspiring Web Developer with a passion for building functional and scalable web applications. I enjoy solving complex problems using modern frameworks.
 
-- 🔭 I’m currently working on **Full Stack Web Projects**
-- 🌱 I’m currently learning **Advanced Architecture & System Design**
-- ⚡ **Current Stack Focus:** React, Next.js, Django, and Laravel
+- ⚡ **Current Stack Focus:** React, Typescript, Next.js, Django, and Laravel
 
 ---
 
