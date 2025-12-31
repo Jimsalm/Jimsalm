@@ -36,15 +36,6 @@ I am an aspiring Web Developer with a passion for building functional and scalab
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jimiel-salmon&show_icons=true&theme=gruvbox&hide_border=true&bg_color=00000000" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimiel-salmon&layout=compact&theme=gruvbox&hide_border=true&bg_color=00000000" height="150" alt="languages graph" />
-</div>
-
-<br>
-
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
 </div>
