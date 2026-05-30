@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-I am an aspiring Web Developer with a passion for building functional and scalable web applications. I enjoy solving complex problems using modern frameworks.
+I am an aspiring Software Engineer with a passion for building functional and scalable web applications. I enjoy solving complex problems using modern frameworks.
 
 - ⚡ **Current Stack Focus:** React, TypeScript, Next.js, Django, and Laravel
 
