@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Hi+I'm+Jimiel+Salmon;Aspiring+Software+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Hi+I'm+Jimiel+Salmon;Software+Engineer" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-I am an aspiring Software Engineer with a passion for building functional and scalable web applications. I enjoy solving complex problems using modern frameworks.
+I am a Software Engineer with a passion for building functional and scalable web applications. I enjoy solving complex problems using modern frameworks.
 
 - ⚡ **Current Stack Focus:** React, TypeScript, Next.js, Django, and Laravel
 
