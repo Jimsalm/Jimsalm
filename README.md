@@ -16,7 +16,7 @@
 
 I am a Software Engineer with a passion for building functional and scalable web applications. I enjoy solving complex problems using modern frameworks.
 
-- ⚡ **Current Stack Focus:** React, TypeScript, Next.js, Django, and Laravel
+- ⚡ **Current Stack Focus:** React, TypeScript, Next.js, ASP.NET, MySQL, Convex
 
 ---
 
